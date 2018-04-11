@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 public class Main2Activity extends Activity {
     DBConnections db;
-    MainActivity mainActivity;
+
     int position;
     TextView txt3;
     TextView txt1;

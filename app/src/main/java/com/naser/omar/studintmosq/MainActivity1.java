@@ -66,7 +66,7 @@ public class MainActivity1 extends AppCompatActivity
         list.setAdapter(new ListResource(this));
         button1=(Button)findViewById(R.id.button1);
         button2=(Button)findViewById(R.id.button2);
-        ImageView imageView=(ImageView)findViewById(R.id.imageView3);
+
         //   imageView.setImageResource(R.drawable.k);
 
         // db.InsertInTo(2,"ahmad","naser",70);
